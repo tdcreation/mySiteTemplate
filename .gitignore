@@ -1,0 +1,16 @@
+# 不要なディレクトリ、ファイルリスト
+# ログやローカルデータベース
+*.log
+*.sql
+*.sqlite
+
+# その他
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.project
+.settings
+*.tmproj
+.idea
+nbproject/
